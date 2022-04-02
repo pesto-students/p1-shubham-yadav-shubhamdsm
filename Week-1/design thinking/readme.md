@@ -7,6 +7,7 @@
 ---
 
 Roundabouts are adaptable solutions that can work for most types of roads—from heavily-trafficked multi-lane roads to single-lane roads in urban downtowns—and implementing them in community road projects can go a long way to helping solve some of these challenges.
+![alt text](./Rounda1.jpg)
 
 ## Purpose
 
@@ -23,6 +24,7 @@ Roundabouts are adaptable solutions that can work for most types of roads—from
 • Yield lines should be provided at all entries of the roundabout.
 • Where there are high pedestrian volumes, signal controls and larger crosswalk widths should be considered.
 • Roundabouts often work best where the traffic flows are balanced on all approaches.
+![alt text](./Rounda2.jpg)
 
 ## Benefits
 
@@ -33,3 +35,5 @@ Roundabouts are adaptable solutions that can work for most types of roads—from
 - **Cost savings**: Although research shows that the cost of implementing a roundabout is about the same as implementing a traffic signal in the same location, roundabouts are less costly over time to operate and maintain and do not require large capital outlays for major repair, allowing communities to make better informed asset management decisions.
 - **Increased resiliency**: In times of crisis due to fire, flooding, or other climate-induced or non-climate induced situations, a non-signalized roundabout remains standing. There’s no power outage to deal with and no confusion and inconvenience related to traffic congestion delays.
 - **Increased sustainability**: Roundabouts don’t stress the local power grid, often include green stormwater management features in their medians and reduce emissions from vehicles idling at traffic signals.
+
+![alt text](./Rounda3.jpg)

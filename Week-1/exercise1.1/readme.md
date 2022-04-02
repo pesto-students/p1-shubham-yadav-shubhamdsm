@@ -1,3 +1,9 @@
+## Web Browser
+
+---
+
+The main functionality of a browser is to get the desired result from the web of your choice and request the server to provide the information and display it on the browser window.
+
 ## High-level components of a browser
 
 ---
@@ -9,6 +15,8 @@
 5. UI backend
 6. javascript interpretor
 7. data storage
+
+   ![alt text](./layers.png)
 
 ## Rendering engine
 
@@ -24,6 +32,8 @@ After the construction of the render tree, it goes through a "layout]process. Th
 
 It's important to understand that this is a gradual process. For a better user experience, the rendering engine will try to display contents on the screen as soon as possible. It will not wait until all HTML is parsed before starting to build and layout the render tree. Parts of the content will be parsed and displayed, while the process continues with the rest of the content that keeps coming from the network.
 
+![alt text](./image013.png)
+
 ## HTML Parser
 
 ---
@@ -35,9 +45,13 @@ The root of the tree is the "Document" object.
 The DOM has an almost one-to-one relation to the markup. For example:
 This markup would be translated to the following DOM tree:
 
+![alt text](./image015.png)
+
 ## CSS Parser
 
 ---
+
+![alt text](./image023.png)
 
 ## Layout
 
@@ -67,3 +81,5 @@ This order affects painting since the stacks are painted from back to front. The
 3. border
 4. children
 5. outline
+
+![alt text](./flow.png)
