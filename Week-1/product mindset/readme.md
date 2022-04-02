@@ -1,5 +1,3 @@
-collab board
-
 ## Collab Board
 
 ---
