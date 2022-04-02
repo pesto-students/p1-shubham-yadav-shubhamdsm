@@ -28,8 +28,8 @@ Roundabouts are adaptable solutions that can work for most types of roads—from
 
 ---
 
-**Reduced congestion**: Both multi-lane and single-lane roundabouts alleviate congestion by allowing continuous vehicle movement in lieu of traffic signals and a continuous flow for the traffic pattern.
-**Increased safety**: Roundabouts are proven to reduce the incidence of severe and fatal vehicle accidents due to their speed reduction and traffic calming properties, leading to a current trend of implementing “mini” roundabouts in pedestrian, multimodal urban areas across the country.
-**Cost savings**: Although research shows that the cost of implementing a roundabout is about the same as implementing a traffic signal in the same location, roundabouts are less costly over time to operate and maintain and do not require large capital outlays for major repair, allowing communities to make better informed asset management decisions.
-**Increased resiliency**: In times of crisis due to fire, flooding, or other climate-induced or non-climate induced situations, a non-signalized roundabout remains standing. There’s no power outage to deal with and no confusion and inconvenience related to traffic congestion delays.
-**Increased sustainability**: Roundabouts don’t stress the local power grid, often include green stormwater management features in their medians and reduce emissions from vehicles idling at traffic signals.
+- **Reduced congestion**: Both multi-lane and single-lane roundabouts alleviate congestion by allowing continuous vehicle movement in lieu of traffic signals and a continuous flow for the traffic pattern.
+- **Increased safety**: Roundabouts are proven to reduce the incidence of severe and fatal vehicle accidents due to their speed reduction and traffic calming properties, leading to a current trend of implementing “mini” roundabouts in pedestrian, multimodal urban areas across the country.
+- **Cost savings**: Although research shows that the cost of implementing a roundabout is about the same as implementing a traffic signal in the same location, roundabouts are less costly over time to operate and maintain and do not require large capital outlays for major repair, allowing communities to make better informed asset management decisions.
+- **Increased resiliency**: In times of crisis due to fire, flooding, or other climate-induced or non-climate induced situations, a non-signalized roundabout remains standing. There’s no power outage to deal with and no confusion and inconvenience related to traffic congestion delays.
+- **Increased sustainability**: Roundabouts don’t stress the local power grid, often include green stormwater management features in their medians and reduce emissions from vehicles idling at traffic signals.
