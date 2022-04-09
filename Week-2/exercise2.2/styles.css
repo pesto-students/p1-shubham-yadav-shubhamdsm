@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    transition: transform 1s linear;
+  }
+  .box-1 {
+    background-color: red;
+    transform-origin: top left;
+  }
+  .box-2 {
+    background-color: yellow;
+    transform-origin: top right;
+  }
+  .box-3 {
+    background-color: blue;
+    transform-origin: bottom left;
+  }
+  .box-4 {
+    background-color: green;
+    transform-origin: bottom right;
+  }
+  .main {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .main:hover .box-1 {
+    transform: rotate(90deg);
+  }
+  .main:hover .box-3 {
+    transform: rotate(-90deg);
+  }
+  .main:hover .box-2 {
+    transform: rotate(-90deg);
+  }
+  .main:hover .box-4 {
+    transform: rotate(90deg);
+  }
+  .text {
+    position: absolute;
+    z-index: -1;
+  }
